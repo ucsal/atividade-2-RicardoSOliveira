@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Exercise2</string>
+    <string name="trocar_usu_rio">Trocar usuário</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="UsuarioConfirma">UsuarioConfirma</string>
+    <string name="UsuarioAtual">UsuarioAtual</string>
+    <string name="oi_fulano">Oi , Fulano!</string>
+
+
 </resources>
